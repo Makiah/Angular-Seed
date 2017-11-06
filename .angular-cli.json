@@ -24,7 +24,6 @@
         "../node_modules/bootstrap/dist/css/bootstrap.min.css"
       ],
       "scripts": [
-        "../node_modules/fhirclient/fhir-client.js"
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {
